@@ -2,7 +2,12 @@
 
 This repository contains an analysis of fuel prices in European countries, including Poland. The analysis explores the impact of the 2023 elections in Poland on fuel prices and highlights instances of suppressed prices within the country.
 
-Data source: https://ec.europa.eu/energy/observatory/reports/ -  Oil_Bulletin_Prices_History.xlsx - Prices with taxes, per CTR
+## Data Source
+
+The data was sourced from the European Commission's Energy Observatory Reports. Specifically, the dataset utilized is the Oil Bulletin Prices History, which provides prices with taxes per CTR for various European countries.
+[Data source](https://ec.europa.eu/energy/observatory/reports/) 
+
+https://ec.europa.eu/energy/observatory/reports/ ->  Oil_Bulletin_Prices_History.xlsx -> Prices with taxes, per CTR
 
 ### Country mapping
 
