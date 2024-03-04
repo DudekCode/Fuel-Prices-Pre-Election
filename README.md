@@ -9,7 +9,7 @@ The data was sourced from the European Commission's Energy Observatory Reports. 
 
 https://ec.europa.eu/energy/observatory/reports/ ->  Oil_Bulletin_Prices_History.xlsx -> Prices with taxes, per CTR
 
-### Country mapping
+### Country mapping:
 
 ```
 country_mapping = {
@@ -41,4 +41,17 @@ country_mapping = {
     'SI': 'Slovenia',
     'SK': 'Slovakia'
 }
+```
+
+### Mapping columns names:
+```
+new_column_names = {
+    'Unnamed: 1': 'Date',
+    'Unnamed: 2': 'Rate to Euro',
+    'Unnamed: 3': 'Euro-super 95',
+    'Unnamed: 4': "Gas oil automobile",
+    'Unnamed: 5': 'Automotive gas oil',
+    'Unnamed: 6': 'Automotive gas oil',
+    'Unnamed: 7': 'Automotive gas oil',
+    'Unnamed: 8': 'LPG'
 ```
