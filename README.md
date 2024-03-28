@@ -55,3 +55,4 @@ new_column_names = {
     'Unnamed: 7': 'Automotive gas oil',
     'Unnamed: 8': 'LPG'
 ```
+Contributions and suggestions for improvement are always welcome!
